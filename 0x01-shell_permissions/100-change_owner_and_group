@@ -1,2 +1,2 @@
-#!/bib/bash
-chown vicent:staff
+#!/bin/bash
+chown vicent:staff *
